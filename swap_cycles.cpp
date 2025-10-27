@@ -8,8 +8,8 @@ N cows labeled 1..N stand in a line. You are given M intervals [L_i, R_i].
 One "round" consists of applying all M reversals in order. Repeat the same
 M-step round exactly K times. Output the final order from left to right.
 
-Key constraints (how to read the powers of ten)
------------------------------------------------
+Key constraints 
+---------------
 N up to 10^5, M up to 10^2, K up to 10^9
 
 Sample Input
