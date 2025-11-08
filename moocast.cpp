@@ -1,5 +1,5 @@
 /*
-USACO "Moocast" — Problem Summary (concise)
+USACO "Moocast" — Problem Summary
 https://usaco.org/index.php?page=viewproblem2&cpid=668
 
 We have N cows (1 ≤ N ≤ 200). Each cow i has coordinates (x_i, y_i) and a walkie-talkie
